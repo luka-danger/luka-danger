@@ -74,6 +74,7 @@
       />
       <br /><strong>Java</strong>
     </td>
+      </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg"
