@@ -74,4 +74,13 @@
       />
       <br /><strong>Java</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg"
+        width="48"
+        height="48"
+        alt="Zsh"
+      />
+      <br /><strong>Zsh</strong>
+    </td>
     
