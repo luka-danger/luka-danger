@@ -59,6 +59,15 @@
       </tr>
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="npm"
+      />
+      <br /><strong>npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"
         width="48"
         height="48"
@@ -83,15 +92,6 @@
         alt="Zsh"
       />
       <br /><strong>Zsh</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="npm"
-      />
-      <br /><strong>npm</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
