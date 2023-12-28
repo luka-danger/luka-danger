@@ -56,6 +56,7 @@
       />
       <br /><strong>HTML</strong>
     </td>
+      </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"
@@ -74,7 +75,6 @@
       />
       <br /><strong>Java</strong>
     </td>
-      </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg"
