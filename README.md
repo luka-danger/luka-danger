@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile! 
 
 <div align="justify">
-    My name is Nate! I'm a Computer Science Student and Aspiring Full Stack Software Engineer. I like learning, problem solving, and doing     anything that challenges me. Right now, I'm spending most of my time learning JavaScript technologies. 
+    My name is Nate! I'm a Computer Science Student and Aspiring Full Stack Software Engineer. I like learning, problem solving, and doing     anything that challenges me. Right now, I'm spending most of my time learning JavaScript and web technologies. 
     When I'm not busy studying and writing code, I enjoy trail running and learning foreign languages. 
 
 <br/><a href="https://www.linkedin.com/in/nathan-edge/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
