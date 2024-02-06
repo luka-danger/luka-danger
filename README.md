@@ -86,10 +86,10 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"
         width="48"
         height="48"
-        alt="Zsh"
+        alt="Spring"
       />
       <br /><strong>Spring</strong>
     </td>
