@@ -3,7 +3,7 @@
 <div align="justify">
     I'm Nate, a Computer Science Student and Aspiring Software Engineer. I'm passionate about problem solving, learning, and all things web technology. 
     When I'm not busy studying for exams or writing code, I enjoy trail running and learning foreign languages. 
-<br/>
+<br>
 <div align="justify">
     “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but         explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” - James Clear
 
