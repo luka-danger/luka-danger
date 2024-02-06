@@ -1,8 +1,8 @@
 # Welcome to my GitHub Profile! 
 
 <div align="justify">
-    I'm Nate, a Computer Science Student and Aspiring Full Stack Software Engineer. I'm passionate about problem solving, learning, and all things web technology. 
-    When I'm not busy studying and writing code, I enjoy trail running and learning foreign languages. 
+    I'm Nate, a Computer Science Student and Aspiring Software Engineer. I enjoy problem solving, learning, and all things web technology. 
+    When I'm not busy studying for exams or writing code, I'm passionate about trail running, animals, and learning foreign languages. 
 
 <br/><a href="https://www.linkedin.com/in/nathan-edge/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
