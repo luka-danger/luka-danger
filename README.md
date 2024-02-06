@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile! 
 
 <div align="justify">
-    I'm Nate, a Computer Science Student and Aspiring Software Engineer. I'm passionate about problem solving, learning, and all things web technology. 
+    I'm Nate, a Computer Science student and aspiring Software Engineer. I'm passionate about problem solving, learning, and all things web technology. 
     When I'm not busy studying for exams or writing code, I enjoy trail running and learning foreign languages. 
 <br>
 <br>
