@@ -59,12 +59,12 @@
       </tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-plain-wordmark.svg"
         width="48"
         height="48"
-        alt="npm"
+        alt="Git"
       />
-      <br /><strong>npm</strong>
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
