@@ -58,6 +58,7 @@
         alt="HTML"
       />
       <br /><strong>HTML</strong>
+        </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
@@ -77,7 +78,6 @@
       <br /><strong>Spring</strong>
     </td>
     </td>
-      </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
