@@ -58,6 +58,24 @@
         alt="HTML"
       />
       <br /><strong>HTML</strong>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br /><strong>Java</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"
+        width="48"
+        height="48"
+        alt="Spring"
+      />
+      <br /><strong>Spring</strong>
+    </td>
     </td>
       </tr>
     <td align="center" height="108" width="108">
@@ -77,24 +95,6 @@
         alt="Python"
       />
       <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
-        width="48"
-        height="48"
-        alt="Java"
-      />
-      <br /><strong>Java</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"
-        width="48"
-        height="48"
-        alt="Spring"
-      />
-      <br /><strong>Spring</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
