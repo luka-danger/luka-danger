@@ -58,6 +58,15 @@
         alt="HTML"
       />
       <br /><strong>HTML</strong>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>React</strong>
+    </td>
         </tr>
     <td align="center" height="108" width="108">
       <img
