@@ -43,15 +43,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
-        alt="MongoDB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"
         width="48"
         height="48"
@@ -85,15 +76,6 @@
         alt="Spring"
       />
       <br /><strong>Spring</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg"
-        width="48"
-        height="48"
-        alt="Angular"
-      />
-      <br /><strong>Angular</strong>
     </td>
     </td>
     <td align="center" height="108" width="108">
