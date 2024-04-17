@@ -65,7 +65,7 @@
         height="48"
         alt="MongoDB"
       />
-      <br /><strong>React</strong>
+      <br /><strong>MongoDB</strong>
     </td>
         </tr>
     <td align="center" height="108" width="108">
@@ -85,6 +85,15 @@
         alt="Spring"
       />
       <br /><strong>Spring</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg"
+        width="48"
+        height="48"
+        alt="Angular"
+      />
+      <br /><strong>Angular</strong>
     </td>
     </td>
     <td align="center" height="108" width="108">
