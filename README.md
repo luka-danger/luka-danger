@@ -58,7 +58,6 @@
         alt="HTML"
       />
       <br /><strong>HTML</strong>
-        </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
@@ -75,17 +74,7 @@
         height="48"
         alt="Spring"
       />
-      <br /><strong>Spring</strong>
-    </td>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
+      <br/><strong>Spring</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -95,14 +84,5 @@
         alt="Python"
       />
       <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
+   
     
