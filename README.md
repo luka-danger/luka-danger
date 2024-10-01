@@ -107,7 +107,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"
         width="48"
         height="48"
         alt="Kali"
