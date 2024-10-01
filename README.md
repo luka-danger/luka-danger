@@ -84,5 +84,14 @@
         alt="Python"
       />
       <br /><strong>Python</strong>
-   
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br /><strong>Linux</strong>
+    </td>
     
