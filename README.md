@@ -58,6 +58,8 @@
         alt="HTML"
       />
       <br /><strong>HTML</strong>
+    </td>
+    <tr></tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
@@ -87,11 +89,29 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg"
         width="48"
         height="48"
         alt="Linux"
       />
       <br /><strong>Linux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://commons.wikimedia.org/wiki/File:Kali-dragon-icon.svg"
+        width="48"
+        height="48"
+        alt="Kali"
+      />
+      <br /><strong>Kali</strong>
     </td>
     
