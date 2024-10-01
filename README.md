@@ -59,6 +59,15 @@
       />
       <br /><strong>HTML</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
     <tr></tr>
     <td align="center" height="108" width="108">
       <img
