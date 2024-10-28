@@ -1,7 +1,7 @@
 # Welcome! 👽 🤘
 
 <div align="justify">
-    I'm Nate, a Computer Science student and aspiring Software Engineer. I'm passionate about problem solving, learning, Cybersecurity, and all things web technology. 
+    I'm Nate, a Computer Science student and aspiring Software Engineer. I'm passionate about problem solving, Cybersecurity, and all things web technology. 
     When I'm not busy studying for exams or writing code, I enjoy trail running, learning foreign languages, and finding ways to help animals. 
 <br>
 <br>
