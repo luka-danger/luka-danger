@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile! 
+# Welcome! 👽 🤘
 
 <div align="justify">
     I'm Nate, a Computer Science student and aspiring Software Engineer. I'm passionate about problem solving, learning, Cybersecurity, and all things web technology. 
