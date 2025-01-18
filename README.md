@@ -1,7 +1,7 @@
 # Welcome! 👽 🤘
 
 <div align="justify">
-    Hi! I'm Nate, a passionate problem solver, Cybersecurity enthusiast, and lover of all things web technology. When I'm not busy studying for exams or writing code, I enjoy trail running,    learning foreign languages, and finding ways to help animals. 
+    Hi! I'm Nate, a passionate problem solver, Cybersecurity enthusiast, and lover of all things web technology. I also enjoy trail running, learning foreign languages, and finding ways to help animals. 
 
 <br>
 <br>
