@@ -58,6 +58,7 @@
       />
       <br /><strong>Next.js</strong>
     </td>
+    <tr></tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"
