@@ -70,21 +70,21 @@
     <tr></tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"
+        src="github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg"
         width="48"
         height="48"
-        alt="Java"
+        alt="GraphQL"
       />
-      <br /><strong>Java</strong>
+      <br /><strong>GraphQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
         width="48"
         height="48"
-        alt="Spring"
+        alt="AWS"
       />
-      <br/><strong>Spring</strong>
+      <br/><strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
