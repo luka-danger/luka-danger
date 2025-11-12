@@ -24,6 +24,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -48,15 +57,6 @@
         alt="CSS"
       />
       <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
     </td>
     <tr></tr>
     <td align="center" height="108" width="108">
