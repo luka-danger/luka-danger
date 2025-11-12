@@ -67,7 +67,6 @@
       />
       <br /><strong>CSS</strong>
     </td>
-    <tr></tr>
     <td align="center" height="108" width="108">
       <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg"
@@ -76,15 +75,6 @@
         alt="GraphQL"
       />
       <br /><strong>GraphQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
-        width="48"
-        height="54"
-        alt="AWS"
-      />
-      <br/><strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -103,14 +93,5 @@
         alt="Linux"
       />
       <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg"
-        width="48"
-        height="48"
-        alt="Kali"
-      />
-      <br /><strong>Kali</strong>
     </td>
     
