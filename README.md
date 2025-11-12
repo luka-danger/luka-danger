@@ -69,6 +69,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg"
         width="48"
         height="48"
