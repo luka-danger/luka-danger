@@ -70,7 +70,7 @@
     <tr></tr>
     <td align="center" height="108" width="108">
       <img
-        src="github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg"
         width="48"
         height="48"
         alt="GraphQL"
@@ -81,7 +81,7 @@
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"
         width="48"
-        height="48"
+        height="54"
         alt="AWS"
       />
       <br/><strong>AWS</strong>
