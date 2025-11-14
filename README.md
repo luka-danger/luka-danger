@@ -51,12 +51,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"
         width="48"
         height="48"
-        alt="Next.js"
+        alt="MongoDB"
       />
-      <br /><strong>Next.js</strong>
+      <br /><strong>MongoDB</strong>
     </td>
     <tr></tr>
     <td align="center" height="108" width="108">
