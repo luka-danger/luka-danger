@@ -1,7 +1,7 @@
 # Welcome! 👽 🤘
 
 <div align="justify">
-    Hi! I'm Nate — a passionate problem solver, cybersecurity enthusiast, and lover of all things web technology. I combine hands-on technical skills with client-facing support to deliver results for customers. Outside of work, I enjoy trail running, language learning, finding ways to help animals, and trying to leave the world a little better than I found it.
+    I'm Nate – a passionate problem solver, cybersecurity enthusiast, and lover of all things web technology. I blend hands-on technical skills with client-facing support to deliver results for customers. I’ve been recognized for impact through a President’s Club award and consistently high customer satisfaction ratings. Outside of work, I enjoy trail running, language learning, helping animals, and trying to leave the world a little better than I found it.
 <br>
 <br>
 “You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” - James Clear
