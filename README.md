@@ -1,10 +1,11 @@
 # Welcome! 👽 🤘
 
 <div align="justify">
-    I'm Nate – a passionate problem solver, cybersecurity enthusiast, and lover of all things web technology. I blend hands-on technical skills with client-facing support to deliver results for customers. I’ve been recognized for impact through a President’s Club award and consistently high customer satisfaction ratings. Outside of work, I enjoy trail running, language learning, helping animals, and trying to leave the world a little better than I found it.
-<br>
-<br>
-“You’re more likely to unlock a big leap in performance by trying differently than by trying harder. You might be able to work 10% harder, but a different approach might work 10x better. Remain focused on the core problem, but explore a new line of attack. Persistence is not just about effort, but also strategy. Don’t merely try harder, try differently.” - James Clear
+    I'm Nate - a passionate problem solver and web technology enthusiast with a strong blend of technical expertise
+and client-facing experience. I enjoy building technical solutions, troubleshooting problems, and helping others
+succeed by better understanding technology. I am results driven and have been recognized for impact through
+multiple awards and consistently high customer satisfaction. Outside of work, I enjoy trail running, language
+learning, supporting animal welfare, and trying to leave the world a little better than I found it.
 
 <br/><a href="https://www.linkedin.com/in/nathan-edge/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
